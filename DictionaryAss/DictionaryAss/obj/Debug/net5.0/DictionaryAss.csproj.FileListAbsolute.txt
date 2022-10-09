@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\DictionaryAss\DictionaryAss\bin\Debug\net5.0\DictionaryAss.exe
+C:\Users\user\source\repos\DictionaryAss\DictionaryAss\bin\Debug\net5.0\DictionaryAss.deps.json
+C:\Users\user\source\repos\DictionaryAss\DictionaryAss\bin\Debug\net5.0\DictionaryAss.runtimeconfig.json
+C:\Users\user\source\repos\DictionaryAss\DictionaryAss\bin\Debug\net5.0\DictionaryAss.runtimeconfig.dev.json
+C:\Users\user\source\repos\DictionaryAss\DictionaryAss\bin\Debug\net5.0\DictionaryAss.dll
+C:\Users\user\source\repos\DictionaryAss\DictionaryAss\bin\Debug\net5.0\DictionaryAss.pdb
+C:\Users\user\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net5.0\DictionaryAss.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net5.0\DictionaryAss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net5.0\DictionaryAss.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net5.0\DictionaryAss.AssemblyInfo.cs
+C:\Users\user\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net5.0\DictionaryAss.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net5.0\DictionaryAss.dll
+C:\Users\user\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net5.0\ref\DictionaryAss.dll
+C:\Users\user\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net5.0\DictionaryAss.pdb
+C:\Users\user\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net5.0\DictionaryAss.genruntimeconfig.cache
+C:\Users\user\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net5.0\refint\DictionaryAss.dll

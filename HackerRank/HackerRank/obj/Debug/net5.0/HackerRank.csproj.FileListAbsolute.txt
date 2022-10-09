@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\HackerRank\HackerRank\HackerRank\bin\Debug\net5.0\HackerRank.exe
+C:\Users\user\source\repos\HackerRank\HackerRank\HackerRank\bin\Debug\net5.0\HackerRank.deps.json
+C:\Users\user\source\repos\HackerRank\HackerRank\HackerRank\bin\Debug\net5.0\HackerRank.runtimeconfig.json
+C:\Users\user\source\repos\HackerRank\HackerRank\HackerRank\bin\Debug\net5.0\HackerRank.runtimeconfig.dev.json
+C:\Users\user\source\repos\HackerRank\HackerRank\HackerRank\bin\Debug\net5.0\HackerRank.dll
+C:\Users\user\source\repos\HackerRank\HackerRank\HackerRank\bin\Debug\net5.0\HackerRank.pdb
+C:\Users\user\source\repos\HackerRank\HackerRank\HackerRank\obj\Debug\net5.0\HackerRank.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HackerRank\HackerRank\HackerRank\obj\Debug\net5.0\HackerRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HackerRank\HackerRank\HackerRank\obj\Debug\net5.0\HackerRank.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HackerRank\HackerRank\HackerRank\obj\Debug\net5.0\HackerRank.AssemblyInfo.cs
+C:\Users\user\source\repos\HackerRank\HackerRank\HackerRank\obj\Debug\net5.0\HackerRank.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HackerRank\HackerRank\HackerRank\obj\Debug\net5.0\HackerRank.dll
+C:\Users\user\source\repos\HackerRank\HackerRank\HackerRank\obj\Debug\net5.0\ref\HackerRank.dll
+C:\Users\user\source\repos\HackerRank\HackerRank\HackerRank\obj\Debug\net5.0\HackerRank.pdb
+C:\Users\user\source\repos\HackerRank\HackerRank\HackerRank\obj\Debug\net5.0\HackerRank.genruntimeconfig.cache
+C:\Users\user\source\repos\HackerRank\HackerRank\HackerRank\obj\Debug\net5.0\refint\HackerRank.dll

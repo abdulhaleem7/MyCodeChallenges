@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CodeChallengeMarch25\CodeChallengeMarch25\bin\Debug\net5.0\CodeChallengeMarch25.exe
+C:\Users\user\source\repos\CodeChallengeMarch25\CodeChallengeMarch25\bin\Debug\net5.0\CodeChallengeMarch25.deps.json
+C:\Users\user\source\repos\CodeChallengeMarch25\CodeChallengeMarch25\bin\Debug\net5.0\CodeChallengeMarch25.runtimeconfig.json
+C:\Users\user\source\repos\CodeChallengeMarch25\CodeChallengeMarch25\bin\Debug\net5.0\CodeChallengeMarch25.runtimeconfig.dev.json
+C:\Users\user\source\repos\CodeChallengeMarch25\CodeChallengeMarch25\bin\Debug\net5.0\CodeChallengeMarch25.dll
+C:\Users\user\source\repos\CodeChallengeMarch25\CodeChallengeMarch25\bin\Debug\net5.0\CodeChallengeMarch25.pdb
+C:\Users\user\source\repos\CodeChallengeMarch25\CodeChallengeMarch25\obj\Debug\net5.0\CodeChallengeMarch25.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CodeChallengeMarch25\CodeChallengeMarch25\obj\Debug\net5.0\CodeChallengeMarch25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CodeChallengeMarch25\CodeChallengeMarch25\obj\Debug\net5.0\CodeChallengeMarch25.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CodeChallengeMarch25\CodeChallengeMarch25\obj\Debug\net5.0\CodeChallengeMarch25.AssemblyInfo.cs
+C:\Users\user\source\repos\CodeChallengeMarch25\CodeChallengeMarch25\obj\Debug\net5.0\CodeChallengeMarch25.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CodeChallengeMarch25\CodeChallengeMarch25\obj\Debug\net5.0\CodeChallengeMarch25.dll
+C:\Users\user\source\repos\CodeChallengeMarch25\CodeChallengeMarch25\obj\Debug\net5.0\refint\CodeChallengeMarch25.dll
+C:\Users\user\source\repos\CodeChallengeMarch25\CodeChallengeMarch25\obj\Debug\net5.0\CodeChallengeMarch25.pdb
+C:\Users\user\source\repos\CodeChallengeMarch25\CodeChallengeMarch25\obj\Debug\net5.0\CodeChallengeMarch25.genruntimeconfig.cache
+C:\Users\user\source\repos\CodeChallengeMarch25\CodeChallengeMarch25\obj\Debug\net5.0\ref\CodeChallengeMarch25.dll

@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\chapter6ass\bin\Debug\net5.0\chapter6ass.exe
+C:\Users\user\Desktop\chapter6ass\bin\Debug\net5.0\chapter6ass.deps.json
+C:\Users\user\Desktop\chapter6ass\bin\Debug\net5.0\chapter6ass.runtimeconfig.json
+C:\Users\user\Desktop\chapter6ass\bin\Debug\net5.0\chapter6ass.runtimeconfig.dev.json
+C:\Users\user\Desktop\chapter6ass\bin\Debug\net5.0\chapter6ass.dll
+C:\Users\user\Desktop\chapter6ass\bin\Debug\net5.0\ref\chapter6ass.dll
+C:\Users\user\Desktop\chapter6ass\bin\Debug\net5.0\chapter6ass.pdb
+C:\Users\user\Desktop\chapter6ass\obj\Debug\net5.0\chapter6ass.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\chapter6ass\obj\Debug\net5.0\chapter6ass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\chapter6ass\obj\Debug\net5.0\chapter6ass.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\chapter6ass\obj\Debug\net5.0\chapter6ass.AssemblyInfo.cs
+C:\Users\user\Desktop\chapter6ass\obj\Debug\net5.0\chapter6ass.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\chapter6ass\obj\Debug\net5.0\chapter6ass.dll
+C:\Users\user\Desktop\chapter6ass\obj\Debug\net5.0\ref\chapter6ass.dll
+C:\Users\user\Desktop\chapter6ass\obj\Debug\net5.0\chapter6ass.pdb
+C:\Users\user\Desktop\chapter6ass\obj\Debug\net5.0\chapter6ass.genruntimeconfig.cache

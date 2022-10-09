@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\haleem2\chapter1ass\obj\Debug\net5.0\chapter1ass.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\haleem2\chapter1ass\obj\Debug\net5.0\chapter1ass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\haleem2\chapter1ass\obj\Debug\net5.0\chapter1ass.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\haleem2\chapter1ass\obj\Debug\net5.0\chapter1ass.AssemblyInfo.cs
+C:\Users\user\Desktop\haleem2\chapter1ass\obj\Debug\net5.0\chapter1ass.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\haleem2\chapter1ass\bin\Debug\net5.0\chapter1ass.exe
+C:\Users\user\Desktop\haleem2\chapter1ass\bin\Debug\net5.0\chapter1ass.deps.json
+C:\Users\user\Desktop\haleem2\chapter1ass\bin\Debug\net5.0\chapter1ass.runtimeconfig.json
+C:\Users\user\Desktop\haleem2\chapter1ass\bin\Debug\net5.0\chapter1ass.runtimeconfig.dev.json
+C:\Users\user\Desktop\haleem2\chapter1ass\bin\Debug\net5.0\chapter1ass.dll
+C:\Users\user\Desktop\haleem2\chapter1ass\bin\Debug\net5.0\ref\chapter1ass.dll
+C:\Users\user\Desktop\haleem2\chapter1ass\bin\Debug\net5.0\chapter1ass.pdb
+C:\Users\user\Desktop\haleem2\chapter1ass\obj\Debug\net5.0\chapter1ass.dll
+C:\Users\user\Desktop\haleem2\chapter1ass\obj\Debug\net5.0\ref\chapter1ass.dll
+C:\Users\user\Desktop\haleem2\chapter1ass\obj\Debug\net5.0\chapter1ass.pdb
+C:\Users\user\Desktop\haleem2\chapter1ass\obj\Debug\net5.0\chapter1ass.genruntimeconfig.cache

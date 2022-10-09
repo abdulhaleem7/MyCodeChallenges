@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\LinearAssignment\LinearAssignment\bin\Debug\net5.0\LinearAssignment.exe
+C:\Users\user\source\repos\LinearAssignment\LinearAssignment\bin\Debug\net5.0\LinearAssignment.deps.json
+C:\Users\user\source\repos\LinearAssignment\LinearAssignment\bin\Debug\net5.0\LinearAssignment.runtimeconfig.json
+C:\Users\user\source\repos\LinearAssignment\LinearAssignment\bin\Debug\net5.0\LinearAssignment.runtimeconfig.dev.json
+C:\Users\user\source\repos\LinearAssignment\LinearAssignment\bin\Debug\net5.0\LinearAssignment.dll
+C:\Users\user\source\repos\LinearAssignment\LinearAssignment\bin\Debug\net5.0\ref\LinearAssignment.dll
+C:\Users\user\source\repos\LinearAssignment\LinearAssignment\bin\Debug\net5.0\LinearAssignment.pdb
+C:\Users\user\source\repos\LinearAssignment\LinearAssignment\obj\Debug\net5.0\LinearAssignment.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LinearAssignment\LinearAssignment\obj\Debug\net5.0\LinearAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LinearAssignment\LinearAssignment\obj\Debug\net5.0\LinearAssignment.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LinearAssignment\LinearAssignment\obj\Debug\net5.0\LinearAssignment.AssemblyInfo.cs
+C:\Users\user\source\repos\LinearAssignment\LinearAssignment\obj\Debug\net5.0\LinearAssignment.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LinearAssignment\LinearAssignment\obj\Debug\net5.0\LinearAssignment.dll
+C:\Users\user\source\repos\LinearAssignment\LinearAssignment\obj\Debug\net5.0\ref\LinearAssignment.dll
+C:\Users\user\source\repos\LinearAssignment\LinearAssignment\obj\Debug\net5.0\LinearAssignment.pdb
+C:\Users\user\source\repos\LinearAssignment\LinearAssignment\obj\Debug\net5.0\LinearAssignment.genruntimeconfig.cache

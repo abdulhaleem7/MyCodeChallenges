@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "chapter9ass/1.0.0": {
+        "runtime": {
+          "chapter9ass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chapter9ass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

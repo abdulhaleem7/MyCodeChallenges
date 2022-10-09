@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\chapter2ass\bin\Debug\net5.0\chapter2ass.exe
+C:\Users\user\Desktop\chapter2ass\bin\Debug\net5.0\chapter2ass.deps.json
+C:\Users\user\Desktop\chapter2ass\bin\Debug\net5.0\chapter2ass.runtimeconfig.json
+C:\Users\user\Desktop\chapter2ass\bin\Debug\net5.0\chapter2ass.runtimeconfig.dev.json
+C:\Users\user\Desktop\chapter2ass\bin\Debug\net5.0\chapter2ass.dll
+C:\Users\user\Desktop\chapter2ass\bin\Debug\net5.0\ref\chapter2ass.dll
+C:\Users\user\Desktop\chapter2ass\bin\Debug\net5.0\chapter2ass.pdb
+C:\Users\user\Desktop\chapter2ass\obj\Debug\net5.0\chapter2ass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\chapter2ass\obj\Debug\net5.0\chapter2ass.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\chapter2ass\obj\Debug\net5.0\chapter2ass.AssemblyInfo.cs
+C:\Users\user\Desktop\chapter2ass\obj\Debug\net5.0\chapter2ass.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\chapter2ass\obj\Debug\net5.0\chapter2ass.dll
+C:\Users\user\Desktop\chapter2ass\obj\Debug\net5.0\ref\chapter2ass.dll
+C:\Users\user\Desktop\chapter2ass\obj\Debug\net5.0\chapter2ass.pdb
+C:\Users\user\Desktop\chapter2ass\obj\Debug\net5.0\chapter2ass.genruntimeconfig.cache
+C:\Users\user\Desktop\chapter2ass\obj\Debug\net5.0\chapter2ass.csproj.AssemblyReference.cache
