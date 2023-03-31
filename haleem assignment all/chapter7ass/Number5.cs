@@ -1,7 +1,7 @@
 using System;
 namespace chapter7ass
 {
-    class number1
+    class number5
     {
         public static void patience5()
         { 
